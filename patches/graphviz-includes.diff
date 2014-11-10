@@ -8,8 +8,8 @@ index 524dad7..f88d2f8 100644
  # OSX, Linux, alternate location
 -#library_dirs='/usr/local/lib/graphviz'
 -#include_dirs='/usr/local/include/graphviz'
-+library_dirs='/usr/local/lib/graphviz'
-+include_dirs='/usr/local/include/graphviz'
++library_dirs='/usr/local/lib'
++include_dirs='/usr/local/include'
  
  # OSX (Fink)
  #library_dirs='/sw/lib/graphviz'
